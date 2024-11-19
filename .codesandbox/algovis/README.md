@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+add node modules cuz u need that but minus that u should be fine 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
